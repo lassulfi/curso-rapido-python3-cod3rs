@@ -1,0 +1,1 @@
+nomes = ('Ana', 'Bia', 'Gui', '')
